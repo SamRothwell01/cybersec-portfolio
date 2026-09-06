@@ -36,13 +36,13 @@ Welp, here I am at 17:30 on the 6th of September 2026 lol. | IN PROGRESS
 
 # What I am currently using (Tools, etc)
 
-Windows 11 Daily Drive
-Kali Linux VM
-Nmap
-Wireshark | IN PROGRESS
-Metasploitable
-Burp Suite (Just the basics atm) | IN PROGRESS
-Python
+Windows 11 Daily Drive,
+Kali Linux VM,
+Nmap,
+Wireshark | IN PROGRESS,
+Metasploitable,
+Burp Suite (Just the basics atm) | IN PROGRESS,
+Python,
 Git/Github
 
 # Write ups
