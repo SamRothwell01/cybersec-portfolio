@@ -26,7 +26,7 @@ Yeah I know, not the best, but I crumbled in them. I had never failed EL, but I 
 - Github Portfolio
 Welp, here I am at 17:30 on the 6th of September 2026 lol. | IN PROGRESS
 
-# Free CERTS I am targeting to get BEFORE 2027
+# CERTS I am targeting to get BEFORE 2027
 
 - THM Pre-Security
 - THM Security 101
