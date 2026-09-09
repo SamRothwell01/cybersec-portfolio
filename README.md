@@ -26,13 +26,19 @@ Yeah I know, not the best, but I crumbled in them. I had never failed EL, but I 
 - Github Portfolio
 Welp, here I am at 17:30 on the 6th of September 2026 lol. | IN PROGRESS
 
-# CERTS I am targeting to get BEFORE 2027
+## Completed
+- Commodius — What is Social Engineering? | 09/09/2026
 
-- THM Pre-Security
-- THM Security 101
-- Google Cybersecurity
-- Fortinet NSE 1-3
-- ISC2 Certified in Cyber
+## Currently studying
+- CompTIA Security+ SY0-701 | IN PROGRESS
+- Certified Ethical Hacker (CEH) v12 | IN PROGRESS
+- TryHackMe Pre Security | IN PROGRESS
+
+## Targeting before 2027
+- TryHackMe Security 101
+- Google Cybersecurity Certificate
+- Fortinet NSE 1–3
+- ISC2 Certified in Cybersecurity (CC)
 
 # What I am currently using (Tools, etc)
 
@@ -49,6 +55,8 @@ Git/Github
 
 I'll drop stuff here every time I do something, no matter how small.
 KEY: DATE | TIME | What I did.
+
+09/09/2026 | 20:58 | Completed the Commodius "What is Social Engineering?" course and received the certificate.
 
 # Find Me!
 
