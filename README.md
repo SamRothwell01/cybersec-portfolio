@@ -57,6 +57,7 @@ I'll drop stuff here every time I do something, no matter how small.
 KEY: DATE | TIME | What I did.
 
 09/09/2026 | 20:58 | Completed the Commodius "What is Social Engineering?" course and received the certificate.
+22/10/2026 | 17:54 | Completed the HTB "Intro To The Academy" module, https://academy.hackthebox.com/achievement/2864253/15
 
 # Find Me!
 
