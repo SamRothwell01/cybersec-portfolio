@@ -28,6 +28,7 @@ Welp, here I am at 17:30 on the 6th of September 2026 lol. | IN PROGRESS
 
 ## Completed
 - Commodius — What is Social Engineering? | 09/09/2026
+- HTB - "Intro To The Academy" module
 
 ## Currently studying
 - CompTIA Security+ SY0-701 | IN PROGRESS
